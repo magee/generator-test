@@ -16,5 +16,5 @@ describe('<%= algorithm %>()', function () {
     expect(true).to.equal(false);
   });
 
-  // Add more assertions here
+  // Add more tests here
 });
